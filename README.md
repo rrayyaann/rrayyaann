@@ -1,3 +1,5 @@
+![Lambang Wordmark ITS-Biru](https://github.com/user-attachments/assets/5c0ef49c-ccd5-4140-be56-6bc48583c322)
+
 ## Hi there 👋
 
 <!--
