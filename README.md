@@ -64,7 +64,7 @@ I’m always eager to connect with professionals and enthusiasts in UI/UX design
       </td>
       <td>
         <h2>🐍 My Contributions 🐍</h2>
-        <img alt="Snake Animation" src="https://raw.githubusercontent.com/rrayyaann/rrayyaann/output/github-contribution-grid-snake-dark.svg" />
+        <img alt="Snake Animation" src="https://raw.githubusercontent.com/rrayyaann/rrayyaann/output/github-contribution-grid-snake.gif" />
       </td>
     </tr>
   </table>
