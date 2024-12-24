@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 </picture>
 -->
 
-![snake gif](https://github.com/rrayyaann/rrayyaann/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/rrayyaann/rrayyaann/blob/output/github-contribution-grid-snake.svg) -->
